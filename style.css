@@ -1,0 +1,18 @@
+h1{
+ text-align: center;
+}
+P1{
+    font-size: larger;
+}
+button{
+    background-color: beige;
+}
+background{
+    color: aqua;
+}
+div{
+    height: 200px;
+    width: 100px;
+    background-color: palevioletred;
+    border-width: 2px;
+}
